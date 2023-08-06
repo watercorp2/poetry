@@ -19,7 +19,7 @@ keywords = ["packaging", "dependency", "poetry"]
 [tool.poetry.dependencies]
 python = "^3.6"
 cleo = "^0.6"
-requests = "^2.18"
+requests = "2.31.0"
 toml = "^0.9"
 cachy = "^0.1.0"
 pip-tools = "^1.11"
